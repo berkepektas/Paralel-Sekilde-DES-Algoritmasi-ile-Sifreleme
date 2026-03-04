@@ -11,5 +11,5 @@ Kullanıcılar metin veya dosya üzerinden şifreleme işlemlerini deneyebilir.
 
 ## Kurulum
 1. Projeyi klonlayın: `git clone <repo_link>`
-2. Python 3 ve gerekli kütüphaneleri kurun
-3. `python des_parallel.py` ile çalıştırın
+2. Dist klasörünü açın ve LockBox.exe dosyasını çalıştırın
+3. İstediğniz dosyayı seçin ve belirlediğiniz şifre ile şifreleyin
